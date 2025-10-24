@@ -11,7 +11,7 @@ NextGen Coders Lab — an educational project founded by **Ekaterina Chistova** 
 We teach students aged 11–16 the basics of programming in Java  
 through creative, visual, and project-based lessons.
 
-- 🧩 Bilingual program: Russian 🇷🇺 + Georgian 🇬🇪 + English 🇬🇧  
+- 🧩 Bilingual program: Russian 🇷🇺 + English 🇬🇧  
 - 🖥️ Real coding with **VS Code** and **JavaFX**  
 - 🎮 Game-based learning: "New Year Rain", "Future Predictor", and more  
 - 📘 Books and materials published on Amazon KDP  
