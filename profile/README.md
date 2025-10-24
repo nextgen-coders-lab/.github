@@ -31,5 +31,6 @@ through creative, visual, and project-based lessons.
 [YouTube](https://www.youtube.com/@nextgen.coders.lab) • [Instagram](https://www.instagram.com/nextgen.coders.lab) • [GitHub](https://github.com/nextgen-coders-lab) • 📧 nextgen.coders.lab@gmail.com  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextgen-coders-lab&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EkaterinaChistova&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
+
