@@ -26,9 +26,9 @@ through creative, visual, and project-based lessons.
 | 🎨 | coming soon | Design & Branding assets for lessons |
 
 <p align="center">
-  <a href="https://youtu.be/99YFCVYKGDg" target="_blank">
-    <img src="https://img.youtube.com/vi/99YFCVYKGDg/maxresdefault.jpg" alt="Welcome to NextGen Coders Lab — Learn. Code. Create." />
+  <a href="https://www.youtube.com/watch?v=99YFCVYKGDg" target="_blank">
+    <img src="https://img.youtube.com/vi/99YFCVYKGDg/hqdefault.jpg" 
+         alt="Welcome to NextGen Coders Lab — Learn. Code. Create." 
+         width="640" height="360" border="10" />
   </a>
-  <br/>
-  <i>NextGen Coders Lab — Learn. Code. Create.</i>
 </p>
